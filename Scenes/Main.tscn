@@ -25,3 +25,7 @@ texture = ExtResource( 1 )
 
 [node name="Node" type="Node" parent="Node2/Node/Node/Node"]
 
+[node name="Node2D" type="Node2D" parent="Node2/Node/Node/Node/Node"]
+
+[node name="Node2D" type="Node2D" parent="Node2/Node/Node/Node/Node/Node2D"]
+
