@@ -9,3 +9,5 @@ position = Vector2( 525.612, 309.607 )
 scale = Vector2( 0.219172, 0.0948482 )
 texture = ExtResource( 1 )
 
+[node name="test 01" type="Node2D" parent="."]
+
